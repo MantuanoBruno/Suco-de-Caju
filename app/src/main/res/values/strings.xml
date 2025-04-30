@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Suco de Caju</string>
+
+    <string name="Caju_tree">Tap the caju tree to select a caju</string>
+    <string name="Caju">Keep tapping the caju to squeeze it</string>
+    <string name="Caju_drink">Tap the caju juice to drink it</string>
+    <string name="Caju_empty_glass">Tap the empty glass to start again</string>
+    <string name="Caju_tree_content_description">Caju tree</string>
+    <string name="Caju_content_description">Caju</string>
+    <string name="CajuJuice_content_description">Glass of Caju Juice</string>
+    <string name="empty_glass_content_description">Empty glass</string>
+
+
+
+</resources>
